@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500;600;700&family=Outfit:wght@400;700&display=swap');
+body {
+    font-size: 15px;
+    font-family: "Outfit" , sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    max-width: 1440px;
+    max-height: 900px;
+    background-color:  hsl(212, 45%, 89%);
+    
+
+
+}
+.container {
+    max-width: 350px;
+    margin: 25px auto;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0px 10px 18px hsl(212, 43%, 79%);
+}
+.image img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 15px;
+}
+.description {
+    margin-bottom: 30px;
+}
+.par-1 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: x-large;
+    margin: 20px 30px 20px 30px;
+    
+}
+.par-2 {
+    color:  hsl(220, 15%, 55%);
+    font-weight: 400;
+    margin: 20px 30px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    
+ 
+}
+  
