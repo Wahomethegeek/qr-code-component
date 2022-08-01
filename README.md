@@ -70,7 +70,7 @@ To see how you can add code snippets, see below:
 ```
 
 ### Continued development
-I would love now to lear more about flexbox abd css grid by doing this I will cover so many projects improving in my skills.
+I would love now to lear more about flexbox and css grid by doing this I will cover so many projects improving in my skills.
 
 
 ## Author
