@@ -75,6 +75,5 @@ I would love now to lear more about flexbox abd css grid by doing this I will co
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@wahomethegeek](https://www.frontendmentor.io/profile/Wahomethegeek)
 - Twitter - [@_Wahomekelvin](https://twitter.com/_Wahomekelvin)
